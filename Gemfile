@@ -27,7 +27,7 @@ group :production do
 end
 
 	
-end
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
